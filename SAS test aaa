@@ -1,0 +1,6 @@
+data myview / view=myview ;
+  set sashelp.class;
+run;
+data mydata ;
+  set sashelp.class;
+run;
